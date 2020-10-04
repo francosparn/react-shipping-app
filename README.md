@@ -1,3 +1,11 @@
+## Preview
+
+Package shipping application made with React, HTML and CSS.
+
+![](https://i.imgur.com/DFJgFxV.png)
+
+![](https://i.imgur.com/GTsKzYj.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
